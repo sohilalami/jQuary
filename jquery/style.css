@@ -1,0 +1,22 @@
+body {
+	font-family: sans-serif;
+}
+#title {
+	text-align: center;
+}
+main {
+	text-align: center;
+}
+section {
+	display: inline-block;
+}
+footer {
+	background-color: #096d00;
+	height: 150px;
+	position: relative;
+}
+#validatie {
+	padding: 2em;
+	margin-top: 3em;
+	text-align: center;
+}
