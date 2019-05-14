@@ -1,5 +1,6 @@
 body {
 	font-family: sans-serif;
+	background-color: rgb(20, 150, 201);
 }
 #title {
 	text-align: center;
@@ -11,7 +12,7 @@ section {
 	display: inline-block;
 }
 footer {
-	background-color: #096d00;
+	background-color: #003ab6;
 	height: 150px;
 	position: relative;
 }
